@@ -1,4 +1,4 @@
-# DOGGR_Prod_Inj
+# DOGGR-Production-Data
 
 Downloads production data for wells 
 
