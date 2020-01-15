@@ -1,6 +1,8 @@
 # DOGGR-Production-Data
 
-Downloads production data for wells 
+Purpose: Download production data for wells from Division of Oil, Gas and Geothermal Resources (DOGGR) FTP server.
+
+Tools: Selenium, csv
 
 
 Instructions: 
